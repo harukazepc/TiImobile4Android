@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.2
+apiversion: 2
+description: TiImobile4Android - i-mobile SDK Rapper for Titanium
+author: Tomoya Narita <sphone@harukaze.tv> (harukazepc)
+license: MIT
+copyright: Copyright (c) 2012 by Tomoya Narita
+
+
+# these should not be edited
+name: tiimobile4android
+moduleid: tv.harukaze.ti.imobile.android
+guid: 6f654c9e-7208-4a88-a158-883e918f3582
+platform: android
+minsdk: 2.0.3.v20120806151610

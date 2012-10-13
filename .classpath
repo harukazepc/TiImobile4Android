@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Library/android-sdk-mac_x86/platforms/android-8/android.jar"/>
+	<classpathentry kind="lib" path="/Library/android-sdk-mac_x86/add-ons/addon_google_apis_google_inc_7/libs/maps.jar"/>
+	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/2.0.3.v20120806151610/android/titanium.jar"/>
+	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/2.0.3.v20120806151610/android/js.jar"/>
+	<classpathentry kind="lib" path="lib/i-mobileSDK.jar"/>
+	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/2.0.3.v20120806151610/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/2.0.3.v20120806151610/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/2.0.3.v20120806151610/android/kroll-rhino.jar"/>
+	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/2.0.3.v20120806151610/android/kroll-v8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
