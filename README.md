@@ -1,8 +1,8 @@
 TiImobileAndroid
 ===========================================
 
-Nend module for Titanium Mobile (Android).
-This module uses Nend Android SDK.
+i-mobile module for Titanium Mobile (Android).
+This module uses i-mobile Android SDK.
 
 HOW TO USE IT
 -----------------------------
@@ -38,11 +38,11 @@ QUICK INSTALL TiImobile4Android
 2. Copy `i-mobile Android SDK` jar file into `dist/modules/tv.harukaze.ti.imobile.android/0.2/lib/`
 3. Copy `dist/modules` folder into your Titanium Project ( ROOT/modules )
 
-(OPTIONAL) INSTALL TiNend4Android
+(OPTIONAL) INSTALL TiImobile4Android
 --------------------
 
 0. Download this module project
-1. Download `i-mobile Android SDK` from Nend's Web Console
+1. Download `i-mobile Android SDK` from i-mobile's Web Console
 2. Make `lib` folder, and Put `i-mobile Android SDK` inside your module project
 3. Check `build.properties` file and replace the path of SDKs
 4. From command line, run this inside your module project:
